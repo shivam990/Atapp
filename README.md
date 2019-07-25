@@ -10,4 +10,6 @@ Teachers can take attendance through this app, which directly reflects to the da
 
 **->** No hedache for teachers to show their attendance i.e.. Students can directly access it with their past attendance and how many classes he/she has to do to cross the criteria ~ 75%
 
+
 **Technologies used :** XML/JAVA (Frontend), MYSQL(Database), PHP &JSON (Backend)
+
